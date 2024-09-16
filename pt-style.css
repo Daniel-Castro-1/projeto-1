@@ -7,6 +7,12 @@ box-sizing: border-box;
 
 }
 
+.caixa{
+    width: 100vh;
+    height: 100vh;
+    display: inline;
+}
+
 header{
     margin: 44px 0 144px 76px;
 }
